@@ -5,7 +5,7 @@
 
 
 
-#### Autora: Gema Correa Fernández
+#### Autora: Juan Diego Pillco Arevalo
 #### Máster en Ingeniría Informática
 #### Enlace de la documentación: https://gecofer.github.io/proyecto-CC/
 
