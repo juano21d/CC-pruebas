@@ -5,7 +5,7 @@
 
 
 
-#### Autora: Juan Diego Pillco Arevalo
+#### Autora: 
 #### Máster en Ingeniría Informática
 #### Enlace de la documentación: https://gecofer.github.io/proyecto-CC/
 
